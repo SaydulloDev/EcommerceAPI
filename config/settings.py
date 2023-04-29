@@ -31,6 +31,8 @@ INSTALLED_APPS = [
     'products.apps.ProductsConfig',
     # Django REST API app
     'rest_framework',
+    # Custom Admin Template
+    'jazzmin'
 ]
 
 MIDDLEWARE = [
